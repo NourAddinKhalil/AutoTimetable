@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\My_Projects\\VS Projects\\VS Studio Projects\\C# Web Apps\\AutoTimetableApp\\Backend\\AutoTimetableApi\\AutoTimetableApi.csproj": {}
+    "E:\\My_Projects\\VS Projects\\VS Studio Projects\\C# Web Apps\\AutoTimetable\\AutoTimetableApp\\Backend\\AutoTimetableApi\\AutoTimetableApi.csproj": {}
   },
   "projects": {
-    "E:\\My_Projects\\VS Projects\\VS Studio Projects\\C# Web Apps\\AutoTimetableApp\\Backend\\AutoTimetableApi\\AutoTimetableApi.csproj": {
+    "E:\\My_Projects\\VS Projects\\VS Studio Projects\\C# Web Apps\\AutoTimetable\\AutoTimetableApp\\Backend\\AutoTimetableApi\\AutoTimetableApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My_Projects\\VS Projects\\VS Studio Projects\\C# Web Apps\\AutoTimetableApp\\Backend\\AutoTimetableApi\\AutoTimetableApi.csproj",
+        "projectUniqueName": "E:\\My_Projects\\VS Projects\\VS Studio Projects\\C# Web Apps\\AutoTimetable\\AutoTimetableApp\\Backend\\AutoTimetableApi\\AutoTimetableApi.csproj",
         "projectName": "AutoTimetableApi",
-        "projectPath": "E:\\My_Projects\\VS Projects\\VS Studio Projects\\C# Web Apps\\AutoTimetableApp\\Backend\\AutoTimetableApi\\AutoTimetableApi.csproj",
+        "projectPath": "E:\\My_Projects\\VS Projects\\VS Studio Projects\\C# Web Apps\\AutoTimetable\\AutoTimetableApp\\Backend\\AutoTimetableApi\\AutoTimetableApi.csproj",
         "packagesPath": "C:\\Users\\Nouraddin_Khalil\\.nuget\\packages\\",
-        "outputPath": "E:\\My_Projects\\VS Projects\\VS Studio Projects\\C# Web Apps\\AutoTimetableApp\\Backend\\AutoTimetableApi\\obj\\",
+        "outputPath": "E:\\My_Projects\\VS Projects\\VS Studio Projects\\C# Web Apps\\AutoTimetable\\AutoTimetableApp\\Backend\\AutoTimetableApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nouraddin_Khalil\\AppData\\Roaming\\NuGet\\NuGet.Config",

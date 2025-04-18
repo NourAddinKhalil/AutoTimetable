@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoTimetableApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73e3ff7e5b85823079cfb5f5e57ee6623f2f4e52")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoTimetableApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoTimetableApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
