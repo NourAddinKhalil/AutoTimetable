@@ -1,0 +1,7 @@
+E:\My_Projects\VS Projects\VS Studio Projects\C# Web Apps\AutoTimetableApp\Backend\AutoTimetableApi\obj\Debug\net8.0\AutoTimetableApi.csproj.AssemblyReference.cache
+E:\My_Projects\VS Projects\VS Studio Projects\C# Web Apps\AutoTimetableApp\Backend\AutoTimetableApi\obj\Debug\net8.0\AutoTimetableApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Projects\VS Projects\VS Studio Projects\C# Web Apps\AutoTimetableApp\Backend\AutoTimetableApi\obj\Debug\net8.0\AutoTimetableApi.AssemblyInfoInputs.cache
+E:\My_Projects\VS Projects\VS Studio Projects\C# Web Apps\AutoTimetableApp\Backend\AutoTimetableApi\obj\Debug\net8.0\AutoTimetableApi.AssemblyInfo.cs
+E:\My_Projects\VS Projects\VS Studio Projects\C# Web Apps\AutoTimetableApp\Backend\AutoTimetableApi\obj\Debug\net8.0\AutoTimetableApi.csproj.CoreCompileInputs.cache
+E:\My_Projects\VS Projects\VS Studio Projects\C# Web Apps\AutoTimetableApp\Backend\AutoTimetableApi\obj\Debug\net8.0\AutoTimetableApi.MvcApplicationPartsAssemblyInfo.cs
+E:\My_Projects\VS Projects\VS Studio Projects\C# Web Apps\AutoTimetableApp\Backend\AutoTimetableApi\obj\Debug\net8.0\AutoTimetableApi.MvcApplicationPartsAssemblyInfo.cache

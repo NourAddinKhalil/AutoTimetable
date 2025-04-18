@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoTimetableApi", "Backend\AutoTimetableApi\AutoTimetableApi.csproj", "{391F87E2-F48D-4124-9031-EAAC068CA9DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{391F87E2-F48D-4124-9031-EAAC068CA9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391F87E2-F48D-4124-9031-EAAC068CA9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391F87E2-F48D-4124-9031-EAAC068CA9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391F87E2-F48D-4124-9031-EAAC068CA9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5BA8366-A380-4D33-B1AF-C1FE970A8EEA}
+	EndGlobalSection
+EndGlobal
